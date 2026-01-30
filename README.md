@@ -6,8 +6,7 @@ Professional Certificate in ML/AI Capstone Final Report
 Raatib Tanvir | Jan 30 2025 | Professional Certificate in Machine Learning and Artificial Intelligence
 
 **Assignment notebook:**
-https://github.com/RAATIB/capstone-initial-report-and-EDA/blob/c1991634dfc9e9ed3d657acafd91a5d273780b77/spotify%20analysis%20Raatib%20Tanvir%20Capstone%20ML%3AAI.ipynb
-
+https://github.com/RAATIB/Capstone-Final-Report/blob/7d6db1bae6a13815790bb19b81e02d2e5f286f58/spotify%20analysis%20Raatib%20Tanvir%20Capstone%20ML%3AAI.ipynb
 
 ## Introduction and Problem Statement:
 In this project, we utilized data processing tools and a machine learning model to determine whether certain aspects of a track on Spotify, like "energy" and "danceability", could predict how commercially successful that song would be on Spotify.
